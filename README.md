@@ -25,3 +25,7 @@ Gene Expression Counts: https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE171995
 
 Data Products:
 Visual Analytics File: https://public.tableau.com/app/profile/qeubic/viz/gse171995_analytics/abstract
+
+Example Heatmap 
+
+![Pattern of Expression of Aquaporins in Response to Maternal SARS-CoV-2 Infection](image_url)
