@@ -11,6 +11,8 @@ Raphael D. Isokpehi 1,*,†, Amos O. Abioye 2,*, Rickeisha S. Hamilton 1, Jasmin
 3    Division of Arts and Sciences, Jarvis Christian University, Hawkins, TX 75765, USA; 
 4    University of Ibadan Bioinformatics Group, Department of Computer Science, University of Ibadan, Oyo State, Nigeria
 
+†    Current affiliation: Office of Data Science Strategy, National Institutes of Health, Bethesda, MD 20892, USA 
+
 Data Sources:
 
 Lu-Culligan, A., Chavan, A. R., Vijayakumar, P., Irshaid, L., Courchaine, E. M., Milano, K. M., ... & Farhadian, S. F. (2021). Maternal respiratory SARS-CoV-2 infection in pregnancy is associated with a robust inflammatory response at the maternal-fetal interface. Med, 2(5), 591-610. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8084634/
