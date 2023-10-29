@@ -24,8 +24,8 @@ Gene Expression Differential Expression: https://www.ncbi.nlm.nih.gov/geo/downlo
 Gene Expression Counts: https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE171995&format=file&file=GSE171995%5Fdeseq%5Fanalysis%2Ecsv%2Egz
 
 Data Products:
-Visual Analytics File: https://public.tableau.com/app/profile/qeubic/viz/gse171995_analytics/abstract
+1. Visual Analytics File: https://public.tableau.com/app/profile/qeubic/viz/gse171995_analytics/abstract
 
-Example Heatmap 
+2. Example Heatmap of Z-Scores of Gene Expression Counts
 
-![Pattern of Expression of Aquaporins in Response to Maternal SARS-CoV-2 Infection](image_url)
+![Pattern of Expression of Aquaporins in Response to Maternal SARS-CoV-2 Infection](https://github.com/qeubic/gse171995_analytics/blob/main/overview_figure.png)
