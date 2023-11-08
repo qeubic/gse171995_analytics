@@ -2,16 +2,18 @@
 
 Supplementary Material for Journal Article
 
-Placental Gene Expression Patterns in Response to Maternal SARS-CoV-2 Infection 
+Visual Analytics for Robust Investigations of Placental Gene Expression Data in Response to Maternal Microbial Infection
 
-Raphael D. Isokpehi 1,*,†, Amos O. Abioye 2,*, Rickeisha S. Hamilton 1, Jasmin C. Fryer 1, Antoinesha L. Hollman 3, Antoinette M. Destefano 1, Kehinde B. Ezekiel 1, Matilda O. Johnson 1, Olubukola Smile 4, Shirma Ramroop-Butts 1, Angela U. Makolo 4, and Albert G. Hayward II 1 
+Raphael D. Isokpehi 1,*,†, Amos O. Abioye 2,*, Rickeisha S. Hamilton 1, Jasmin C. Fryer 1, Antoinesha L. Hollman 3, Antoinette M. Destefano 1, Kehinde B. Ezekiel 1, Tyrese L. Taylor 1, Shawna F. Brooks 1, Matilda O. Johnson 1, Olubukola Smile 4, Shirma Ramroop-Butts 1, Angela U. Makolo 4, and Albert G. Hayward II 1 
 
-1    Transdisciplinary Data Scholars Development Program, Bethune-Cookman University, Daytona Beach, Florida 32114, USA
-2    College of Pharmacy & Health Sciences, Belmont University, Nashville, TN 37212, USA; 
-3    Division of Arts and Sciences, Jarvis Christian University, Hawkins, TX 75765, USA; 
-4    University of Ibadan Bioinformatics Group, Department of Computer Science, University of Ibadan, Oyo State, Nigeria
+1	Transdisciplinary Data Scholars Development Program, Bethune-Cookman University, Daytona Beach, Florida 32114, USA; raphael.isokpehi@outlook.com (R.D.I.); rickeisha.s.hamilton@gmail.com (R.S.H.); jas-minfryer1@hotmail.com (J.C.F.); destefanoa@cookman.edu (A.M.I.); kennyezekiel14@gmail.com (K.E.); brookss@cookman.edu (S.F.B.); tyreselynn3@gmail.com (T.L.T.); mjmph1523@gmail.com (M.O.J.); ram-roops@cookman.edu (S.R.-B.); haywarda@cookman.edu (A.G.H).
+2	College of Pharmacy & Health Sciences, Belmont University, Nashville, TN 37212, USA; amos.abioye@belmont.edu (A.O.A.)
+3	Division of Arts and Sciences, Jarvis Christian University, Hawkins, TX 75765, USA; ahollman@jarvis.edu  (A.L.H.).
+4	University of Ibadan Bioinformatics Group, Department of Computer Science, University of Ibadan, Oyo State, Nigeria; bukolasmile@gmail.com (B.S.); aumakolo@gmail.com (A.U.M) 
 
-†    Current affiliation: Office of Data Science Strategy, National Institutes of Health, Bethesda, MD 20892, USA 
+†	Current affiliation: Office of Data Science Strategy, National Institutes of Health, Bethesda, MD 20892, USA
+
+*	Correspondence: raphael.isokpehi@outlook.com (R.D.I) and amos.abioye@belmont.edu (A.O.A.)
 
 Data Sources:
 
